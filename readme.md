@@ -1,4 +1,6 @@
-# Drag and drop s3 file uploader for React
+# For of Drag and drop s3 file uploader for React
+
+Official repository [react-dropzone-s3-uploader](https://github.com/founderlab/react-dropzone-s3-uploader)
 
 This component uploads files dropped into [react-dropzone](https://github.com/okonet/react-dropzone) to s3 with [react-s3-uploader](https://github.com/odysseyscience/react-s3-uploader).
 
