@@ -4,8 +4,8 @@
   "description": "Fork of Drag and drop s3 file uploader via react-dropzone + react-s3-uploader",
   "main": "lib/index.js",
   "author": {
-    "name": "Cleanderson Lobo",
-    "url": "https://github.com/cleandersonlobo"
+    "name": "Gwilym Humphreys",
+    "url": "https://github.com/gwilymhumphreys"
   },
   "license": "MIT",
   "repository": {
