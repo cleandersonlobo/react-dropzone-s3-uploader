@@ -8,8 +8,12 @@ For more detailed docs see the source packages
 - [react-dropzone](https://github.com/okonet/react-dropzone)
 - [react-s3-uploader](https://github.com/odysseyscience/react-s3-uploader)
 
+## Install
+```javascript
 
+npm install react-dropzone-s3-uploader-fork
 
+```
 ## Usage (client)
 
 
@@ -127,7 +131,7 @@ class S3Uploader extends React.Component {
 - See [react-s3-uploader](https://github.com/odysseyscience/react-s3-uploader) for more details.
 
 ```javascript
-app.use('/s3', require('react-dropzone-s3-uploader/s3router')({
+app.use('/s3', require('react-dropzone-s3-uploader-fork/s3router')({
   bucket: 'MyS3Bucket',                           // required
   region: 'us-east-1',                            // optional
   headers: {'Access-Control-Allow-Origin': '*'},  // optional
